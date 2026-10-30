@@ -8,8 +8,8 @@
   "platforms": {
     "windows-x86_64": {
       "packageType": "zip",
-      "fileName": "OmniTrace-Windows_2.2.0-x64-FixedPath.zip",
-      "url": "https://your-update-host.example/updates/dev/OmniTrace-Windows_2.2.0-x64-FixedPath.zip",
+      "fileName": "OmniTrace-Windows_2.2.1-x64-FixedPath.zip",
+      "url": "https://drive.google.com/file/d/1-qxcKTQtNDsQxSR8ZvaShIiQ3J7JIBVp/view?usp=drive_link",
       "installerPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.2.0-x64.exe",
       "configPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.2.0-x64.exe.config",
       "sha256": null,
