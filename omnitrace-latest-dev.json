@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "application": "OmniTrace",
+  "channel": "dev",
+  "enabled": false,
+  "version": "2.2.0",
+  "notes": "Development example for the Azure pipeline download. Replace the example URL and generate the package checksum and signature before enabling updates.",
+  "platforms": {
+    "windows-x86_64": {
+      "packageType": "zip",
+      "fileName": "OmniTrace-Windows_2.2.0-x64-FixedPath.zip",
+      "url": "https://your-update-host.example/updates/dev/OmniTrace-Windows_2.2.0-x64-FixedPath.zip",
+      "installerPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.2.0-x64.exe",
+      "configPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.2.0-x64.exe.config",
+      "sha256": null,
+      "signature": null
+    }
+  }
+}
