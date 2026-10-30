@@ -1,6 +1,9 @@
 {
   "channel": "dev",
-  "feedUrl": "",
-  "publicKeyPem": "",
-  "allowedDownloadHosts": []
+  "feedUrl": "https://raw.githubusercontent.com/ahnjuuboh/omnitrace/refs/heads/main/omnitrace-latest-dev.json",
+  "publicKeyPem": "REPLACE_WITH_YOUR_COMPLETE_ED25519_PUBLIC_PEM",
+  "allowedDownloadHosts": [
+    "github.com",
+    "release-assets.githubusercontent.com"
+  ]
 }
