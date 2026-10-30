@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "application": "OmniTrace",
   "channel": "dev",
-  "enabled": false,
+  "enabled": true,
   "version": "2.2.1",
   "notes": "Development example for the Azure pipeline download. Replace the example URL and generate the package checksum and signature before enabling updates.",
   "platforms": {
