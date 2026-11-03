@@ -12,8 +12,8 @@
       "url": "https://github.com/ahnjuuboh/omnitrace/releases/download/2.3.0/OmniTrace-Windows_2.3.0-x64-FixedPath.zip",
       "installerPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.3.0-x64.exe",
       "configPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.3.0-x64.exe.config",
-      "sha256": "3e0f5eda05c466f29a1484273ef260083876b3e2298363bddcf68fd4da06fb6c",
-      "signature": "wwgmFaUr1Ec8dYo8FlPvjUQdd8HmjsqE6tvg8qYaAq6qLh13AVzgUA2wLkSFxgTF1opbjfEiunYuvfBTpyR6CA=="
+      "sha256": "b594a4d56925598ab63036b48f0c327681d8d706c67075298d5b6f15e7627e56",
+      "signature": "LLKsLiVF4CZ1zvxhvdKCHcEam2COzSMSKBtBjazPqUPxXaQzF7cS8hjL+Dm2Nzs8fji8IArcPr+en5CwCIylAw=="
     }
   }
 }
