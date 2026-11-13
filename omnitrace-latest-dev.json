@@ -3,17 +3,17 @@
   "application": "OmniTrace",
   "channel": "dev",
   "enabled": true,
-  "version": "2.5.2",
-  "notes": "OmniTrace 2.5.2 development release.",
+  "version": "2.5.3",
+  "notes": "OmniTrace 2.5.3 development release.",
   "platforms": {
     "windows-x86_64": {
       "packageType": "zip",
-      "fileName": "OmniTrace-Windows_2.5.2-x64-FixedPath.zip",
-      "url": "https://github.com/ahnjuuboh/omnitrace/releases/download/2.5.2/OmniTrace-Windows_2.5.2-x64-FixedPath.zip",
-      "installerPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.5.2-x64.exe",
-      "configPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.5.2-x64.exe.config",
-      "sha256": "1e90face168668c05a0a13bbf2eda9263bc32f316825b8e34adc35165c40139a",
-      "signature": "nsLhtI8aBT3aIc2boiDP+pCL4776YV1Qj+ZDIp2QrKadY+7aycLTyzN9GXeJCS9MAT7U1/5eIKiIvkPqiIKCDA=="
+      "fileName": "OmniTrace-Windows_2.5.3-x64-FixedPath.zip",
+      "url": "https://github.com/ahnjuuboh/omnitrace/releases/download/2.5.3/OmniTrace-Windows_2.5.3-x64-FixedPath.zip",
+      "installerPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.5.3-x64.exe",
+      "configPath": "OmniTrace-Windows-x64-FixedPath/OmniTraceSetup-2.5.3-x64.exe.config",
+      "sha256": "5b320d6811e64320e8817e08f67c2f35d9f70e64085f4d6e116aabad673d7a42",
+      "signature": "9vY4qQxIm+Y9GwmJWOigGdAV2R+VnGDA6jz4e1VIa1pda6+aTLdcxBR17klx+WgvU+Lvg9daMT508oRrkBEFDg=="
     }
   }
 }
